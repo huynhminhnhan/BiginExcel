@@ -1,0 +1,10 @@
+{
+    "require": {
+        "rap2hpoutre/fast-excel": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "BiginExcel\\": "src/"
+        }
+    }
+}
